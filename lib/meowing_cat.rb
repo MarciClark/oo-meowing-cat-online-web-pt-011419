@@ -4,7 +4,7 @@ class Cat
     @name = maru
   end
  
-  def maru
+  def name
     @name
   end
 end
