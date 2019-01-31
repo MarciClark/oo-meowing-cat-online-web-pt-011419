@@ -1,6 +1,6 @@
 class Cat
  
-  def name=(name)
+  def name=("Maru")
     @name = maru
   end
  
